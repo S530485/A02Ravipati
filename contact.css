@@ -1,0 +1,67 @@
+body{
+    
+        background-image: url("background.jpg");
+        background-size: cover;
+        background-repeat: no-repeat;
+        font-family: "Arial", Helvetica, sans-serif;
+        
+}
+
+.divborder{
+    
+        color: white;
+        border-style: solid;
+        margin: auto;
+        padding: 10px;
+        max-width: 505px;
+        text-align: center;
+}
+
+#bodydiv{
+	text-align: left;
+}
+
+h1{
+    text-align: center;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: gray;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 16px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color:green;
+}
+
+#liname{
+    float: right;
+}
+
+section {
+    text-align: center;
+}
+
+footer{
+    color: white;
+    text-align: center;
+}
+
+h6{
+    color: white;
+}
