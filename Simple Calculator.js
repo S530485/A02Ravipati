@@ -60,12 +60,3 @@ else if(operation == 4){
 
 }
 
-
-function newFunction() {
-    $(function() {
-    $('input').click(function() {
-    $(this).css('background', 'yellow');
-});
-});
-}
-
