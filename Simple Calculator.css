@@ -1,6 +1,7 @@
 body{
     
-        background-image: url("background.jpg");
+        /* background-color: black; */
+        background-image: url("backgrnd.jpg");
         background-size: cover;
         background-repeat: no-repeat;
         font-family: "Arial", Helvetica, sans-serif;
@@ -17,20 +18,7 @@ body{
         text-align: center;
 }
 
-#bodydiv{
-	text-align: left;
-}
-
-h1{
-    text-align: center;
-}
-
-section {
-    color: white;
-    text-align: center;
-}
-
-footer{
+#section {
     color: white;
     text-align: center;
 }
@@ -39,6 +27,11 @@ h6{
     color: white;
 }
 
-#input{
-    color: black;
+footer{
+    color: white;
+    text-align: center;
+}
+
+form{
+    color: green;
 }

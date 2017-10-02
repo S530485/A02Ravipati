@@ -63,43 +63,12 @@ p{
     color: white;
 }
 
-img {
-	border-radius: 50%;
-}
-
 div.frame {
 	text-align: center;
 }
 
-ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-    background-color: gray;
-}
-
-li {
-    float: left;
-}
-
-#liname{
-    float: right;
-}
-
-li a {
-    display: block;
-    color: white;
-    text-align: center;
-    padding: 16px 16px;
-    text-decoration: none;
-}
-
-li a:hover {
-    background-color:green;
-}
-
 #section {
+    color: white;
     text-align: center;
 }
 
