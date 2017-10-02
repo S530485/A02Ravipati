@@ -15,4 +15,3 @@
 # References
 
 - https://www.w3schools.com/html/
-- https://validator.w3.org/
